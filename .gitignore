@@ -1,0 +1,13 @@
+*.kate-swp
+downloads/*
+updates_key.pem
+youtube_dl.egg-info
+test
+build/
+dist/
+youtube-dl.1
+youtube-dl.fish
+youtube-dl.zsh
+README.txt
+youtube-dl.bash-completion
+latest_version
